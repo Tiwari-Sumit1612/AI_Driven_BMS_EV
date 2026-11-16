@@ -1,0 +1,7 @@
+,MAE,MAE,RMSE,RMSE,R2,R2
+,mean,std,mean,std,mean,std
+model,,,,,,
+Linear Regression,3.331,2.401,3.657,2.453,0.845,0.13
+Random Forest,2.687,1.755,3.152,1.735,0.867,0.12
+SVR (RBF),4.053,3.529,4.904,4.381,0.683,0.35
+XGBoost,2.481,1.83,2.788,1.883,0.896,0.098
